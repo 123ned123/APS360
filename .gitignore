@@ -9,6 +9,8 @@ venv/
 env/
 .venv/
 .env   # NEVER upload this if it has keys!
+.data
+data
 
 # --- IDE Settings (Optional) ---
 .vscode/
